@@ -1,0 +1,5 @@
+# YOLO weights are too large for GitHub (README: do not upload)
+yolo_files/yolov3.weights
+
+# Python cache
+__pycache__/
